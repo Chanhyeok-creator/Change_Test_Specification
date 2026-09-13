@@ -1,0 +1,25 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.csproj.user
+
+# Build output
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio temporary files
+*.pdb
+*.cache
+
+# Test results
+TestResults/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Runtime / generated machine-specific data
+**/res/xml/path.xml

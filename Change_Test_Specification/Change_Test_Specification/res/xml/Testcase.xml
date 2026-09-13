@@ -1,0 +1,10 @@
+<Test>
+  <Data id="0">
+    <Test_name>Test</Test_name>
+    <Min>1</Min>
+    <Max>100</Max>
+    <Voltage>5</Voltage>
+    <Measured_value />
+    <Result />
+  </Data>
+</Test>

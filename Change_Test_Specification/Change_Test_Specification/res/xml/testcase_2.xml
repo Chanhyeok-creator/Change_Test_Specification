@@ -1,0 +1,34 @@
+<Test>
+  <Data id="0">
+    <Test_name>A100</Test_name>
+    <Min>10</Min>
+    <Max>50</Max>
+    <Voltage>5</Voltage>
+    <Measured_value />
+    <Result />
+  </Data>
+  <Data id="1">
+    <Test_name>A300</Test_name>
+    <Min>30</Min>
+    <Max>50</Max>
+    <Voltage>10</Voltage>
+    <Measured_value />
+    <Result />
+  </Data>
+  <Data id="2">
+    <Test_name>A600</Test_name>
+    <Min>60</Min>
+    <Max>600</Max>
+    <Voltage>6</Voltage>
+    <Measured_value />
+    <Result />
+  </Data>
+  <Data id="3">
+    <Test_name>B500</Test_name>
+    <Min>55</Min>
+    <Max>90</Max>
+    <Voltage>5</Voltage>
+    <Measured_value />
+    <Result />
+  </Data>
+</Test>
